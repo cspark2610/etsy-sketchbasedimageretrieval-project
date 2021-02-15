@@ -4,7 +4,7 @@ https://docs.google.com/presentation/d/1_7il7Tgqm3EhCqpwJLimrrFffVZ5t8aaLQ6Lr2NM
 
 or checkout Final_Presentation_Lampshades.pdf above for the slide deck
 # Final Demo
-[![Youtube demo]]
+## Youtube demo
 
 [![Watch the video](https://github.com/cspark2610/etsy-sketchbasedimageretrieval-project/blob/main/thumbnail.PNG)](https://www.youtube.com/watch?v=kn04v81FS2g)
 
